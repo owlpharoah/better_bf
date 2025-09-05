@@ -1,0 +1,10 @@
+C:\Users\sreeh\OneDrive\Desktop\programming\random-projects\better_listener_than_your_bf\target\debug\deps\dasp_sample-b6b07deaa7493983.d: C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs
+
+C:\Users\sreeh\OneDrive\Desktop\programming\random-projects\better_listener_than_your_bf\target\debug\deps\libdasp_sample-b6b07deaa7493983.rlib: C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs
+
+C:\Users\sreeh\OneDrive\Desktop\programming\random-projects\better_listener_than_your_bf\target\debug\deps\libdasp_sample-b6b07deaa7493983.rmeta: C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs
+
+C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs:
+C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs:
+C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs:
+C:\Users\sreeh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs:

@@ -1,0 +1,9 @@
+[package]
+name = "better_listener_than_your_bf"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.99"
+cpal = "0.15"
+hound = "3.5"   
