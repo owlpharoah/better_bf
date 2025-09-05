@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tauri + Python</title>
+</head>
+<body>
+  <h1>Tauri + Python Demo</h1>
+  <button id="run-btn">Run Python Script</button>
+  <pre id="output"></pre>
+
+  <script type="module">
+    import { invoke } from '@tauri-apps/api/tauri';
+
+    const btn = document.getElementById("run-btn");
+    const output = document.getElementById("output");
+
+    btn.addEventListener("click", async () => {
+      try {
+        const result = await invoke("run_python_script");
+        output.textContent = result;
+      } catch (err) {
+        output.textContent = "Error: " + err;
+      }
+    });
+  </script>
+</body>
+</html>
+
